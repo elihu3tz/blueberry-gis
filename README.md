@@ -1,18 +1,22 @@
-# Blueberry GIS for Claude
+# 🫐 Blueberry GIS App
 
-This React project displays a blueberry field with GIS-like visualization.
+A modern React-based GIS visualization for blueberry fields with kit (BOM), irrigation layers, and plant status indicators.
+
+![Screenshot](https://raw.githubusercontent.com/YOUR_USERNAME/blueberry-gis/main/assets/screenshot.png)
 
 ## Features
 
-- Visual map of field with KIT overlay
-- Clickable plants with modal info
-- BOM and data structure separation
+✅ Interactive SVG field with clickable plants  
+✅ BOM display per plant with prices and suppliers  
+✅ Layer visibility (grid, irrigation, control, sensors)  
+✅ TailwindCSS styling  
+✅ Fully RTL + Hebrew support
 
-To run:
+---
+
+## 🛠 Setup
 
 ```bash
 npm install
 npm start
-```
 
-Happy analyzing 🍇
